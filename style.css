@@ -1,0 +1,46 @@
+main {
+    width: 800px;
+    height: 294px;
+    background-color: #FFFFFF;
+}
+
+.img {
+    width: 185.5px;
+    height: 205px;
+    margin-right: 28px;
+}
+
+.contenedor {
+    display: flex;
+    width: 100%;
+}
+
+.contenedor-ubicacion {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contenedor-ubicacion p {
+    margin: 0px;
+}
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+h2{
+    font-size: 21px;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.asideRigth {
+    width: 112px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #355FF3;
+    height: 294px;
+    margin-left: 106px;
+}
